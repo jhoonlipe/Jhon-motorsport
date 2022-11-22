@@ -1,0 +1,42 @@
+body{
+    background-color: #5D0C1D;
+    color: #CCB38D;
+    overflow-x: hidden;
+}
+
+nav{
+    background-color: #5D0C1D;
+     
+    color: #CCB38D;
+}
+
+.navbar-nav a {
+    color: #CCB38D;
+}
+
+.navbar-nav a.activet {
+    border-bottom:  1px solid #CCB38D;
+}
+.texto-poeystico{
+font-size: 25px;
+width: 85%;
+background-color: #CCB38D;
+color: #5D0C1D;
+border-radius: 15px;
+text-align: center;
+padding: 60px;
+
+}
+.monteiro-sales{
+    font-size: 25px;
+    background-color: #CCB38D;
+    color: #5D0C1D;
+    text-align: center;
+    padding: 60px;
+}
+
+.rodape{
+    <img src="..." alt="..." class="img-thumbnail">
+    padding: 30px;
+}
+    
